@@ -65,6 +65,14 @@ My current goal is to deepen my specialization in **DevOps Engineering**, partic
 
 ## 🧪 Projects & Labs
 
+### 🖥️ [SorrowVale Desktop](https://github.com/sorrowvale/Sorrowvale-theme)
+
+A reproducible dark gothic KDE Plasma environment built on Fedora, combining desktop customization with practical workstation telemetry and system visibility.
+
+**Stack:** `Fedora` · `KDE Plasma` · `Wayland` · `Conky` · `Bash` · `Linux`
+
+> Personal Linux workstation project focused on reproducible configuration, custom Plasma integration, system monitoring and dual-monitor workflows.
+
 ### 🧾 Nómade POS
 
 A real-world point-of-sale system operated on local infrastructure for event environments. The platform combines a Laravel application with containerized services and local hardware integration.
